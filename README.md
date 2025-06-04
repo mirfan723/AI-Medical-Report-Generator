@@ -17,4 +17,3 @@ This application uses OCR technology and AI to analyze medical reports and provi
 - **Backend**: Flask Python API
 - **OCR**: pytesseract
 - **PDF Generation**: jsPDF (client-side) and FPDF (server-side)
-- **API Integration**: Hugging Face models
